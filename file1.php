@@ -1,3 +1,3 @@
 <?php
-echo "my first file with git on demo project";
+echo "my first file with git on demo project - branch1";
 ?>
